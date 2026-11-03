@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Lock Screen</string>
+    <string name="admin_desc">Required solely to turn off screen immediately on tap.</string>
+</resources>
